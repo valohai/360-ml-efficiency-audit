@@ -1,6 +1,6 @@
 # 360 ML Efficiency Audit Tool
 
-The **360 ML Efficiency Audit Tool** is a Python-based utility designed to fetch and analyze historical data from your MLflow server. This tool helps you gain insights into your machine learning projects by auditing compute usage, resource utilization, and model performance. 
+The **360 ML Efficiency Audit Tool** is a Python-based utility designed to fetch and analyze historical data from your experiment tracking. This tool helps you gain insights into your machine learning projects by auditing compute usage, resource utilization, and model performance. 
 
 ## Features
 

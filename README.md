@@ -14,12 +14,11 @@ The **360 ML Efficiency Audit Tool** is a Python-based utility designed to fetch
 ```
 360-ML-Efficiency-Audit-Tool/
 │
-├── mlflow/
-│   ├── efficiency_audit.py    # Main script
-│   ├── .env                   # MLFlow Tracking URI configuration
-│   ├── requirements.txt       # Required Python libraries
+├── mlflow_efficiency_audit.py    # Main script
+├── .env                          # MLFlow Tracking URI configuration
 │
-├── README.md                  # Documentation
+├── README.md                     # Documentation
+├── requirements.txt              # Required Python librarie
 ```
 
 ## Installation

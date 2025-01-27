@@ -43,7 +43,7 @@ The **360 ML Efficiency Audit Tool** is a Python-based utility designed to fetch
 
 3. Configure your MLflow tracking URI in the `.env` file. For example:
 ```
-MLFLOW_TRACKING_URI=http://3.128.246.35
+MLFLOW_TRACKING_URI=http://3.128.246.34
 ```
 
 ## Usage

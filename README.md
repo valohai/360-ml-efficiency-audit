@@ -11,7 +11,7 @@ The **360 ML Efficiency Audit Tool** is a Python-based utility designed to fetch
 
 Gain insights into your machine learning projects by auditing compute usage and resource utilization.
 
-**Utilization**
+**Utilization / Cost**
 * Are you using the optimal machine sizes for your workloads?
 * How often do you have idle GPU or entire machines?
 * Is your compute going to waste by repeating experiments with no changes?

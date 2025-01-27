@@ -9,6 +9,9 @@ The **360 ML Efficiency Audit Tool** is a Python-based utility designed to fetch
 - List all registered models and their versions.
 - Export results to a detailed Excel report, including a summary and raw data.
 
+
+![Example Report](images/excel_report_example.png)
+
 ## Folder Structure
 
 ```

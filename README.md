@@ -1,10 +1,10 @@
 # 360 ML Efficiency Audit Tool
 
-The **360 ML Efficiency Audit Tool** is a Python-based utility designed to fetch and analyze historical data from your experiment tracking. This tool helps you gain insights into your machine learning projects by auditing compute usage, resource utilization, and model performance. 
+The **360 ML Efficiency Audit Tool** is a Python-based utility designed to fetch and analyze historical data from your experiment tracking platform. This tool helps you gain insights into your machine learning projects by auditing compute usage and resource utilization.
 
 ## Features
 
-- Fetch historical metrics, parameters, and metadata for all d experiments.
+- Fetch historical metrics, parameters, and metadata for all experiments.
 - Analyze GPU and CPU utilization metrics, including full metric history for GPUs.
 - List all registered models and their versions.
 - Export results to a detailed Excel report, including a summary and raw data.

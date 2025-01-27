@@ -30,6 +30,7 @@ The **360 ML Efficiency Audit Tool** is a Python-based utility designed to fetch
 
 - Python 3.8 or higher
 - An active MLflow tracking server
+- Turn on [MLFlow System Metrics monitoring](https://mlflow.org/docs/latest/system-metrics/index.html)
 
 ### Setup
 

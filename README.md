@@ -9,6 +9,21 @@ The **360 ML Efficiency Audit Tool** is a Python-based utility designed to fetch
 - List all registered models and their versions.
 - Export results to a detailed Excel report, including a summary and raw data.
 
+Gain insights into your machine learning projects by auditing compute usage and resource utilization.
+
+**Utilization**
+* Are you using the optimal machine sizes for your workloads?
+* How often do you have idle GPU or entire machines?
+* Is your compute going to waste by repeating experiments with no changes?
+
+**Efficiency:**
+* How many experiments are you cranking out each week?
+* Are you running experiments in parallel to boost efficiency?
+
+**Versioning**
+* Are your experiments getting versioned regularly?
+* Do your models include proper versioning metadata?
+
 
 ![Example Report](images/excel_report_example.png)
 
